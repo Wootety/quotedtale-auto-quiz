@@ -7,3 +7,7 @@ Refer here if needed : https://developer.chrome.com/docs/devtools/console/refere
 
 # Showcase
 https://youtu.be/x17TdaX0Zr0
+
+
+https://github.com/Wootety/quotedtale-auto-quiz/assets/32878285/c66f906d-036c-4b1c-9c45-18546aacd8f6
+
